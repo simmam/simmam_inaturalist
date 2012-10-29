@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iNaturalist</string>
+    <string name="observations_menu_add">Add</string>
+    <string name="observations_menu_sync">Sync</string>
+    <string name="delete_observation">Delete observation</string>
+    <string name="observation_deleted">Observation deleted</string>
+    <string name="species_guess_hint">Species name</string>
+<!-- 
+   <string name="gmaps_api_key">TODO</string>
+ -->
+    
+    
+    <string name="Authorization_res">Authorization</string>
+    <string name="Authentication_failed:_res">Authentication failed:</string>
+    
+    <string name="Basic_res">Basic</string>
+        
+    <string name="Blast_something_went_wrong_res">Blast, something went wrong</string>
+    
+    <string name="Cancel_res">Cancel</string>
+    <string name="camera_bailed_res">camera bailed,</string>
+    <string name="credentials_res">credentials</string>
+    <string name="couldn_t_find">couldn t find</string>
+    <string name="Current_position_res">Current position</string>
+    <string name="Couldn_t_connect_to_server_res">Couldn t connect to server</string>
+    <string name="Couldn_t_load_nearby_observations_res">Couldn\'t load nearby observations</string>
+    
+    <string name="existing_observations_res">existing observations</string>
+    <string name="Error_for_URL_res">Error for URL</string>
+    
+    <string name="failed_to_add_res">failed to add </string>
+   	<string name="Failed_to_create_JSONArray__JSONException_res">Failed to create JSONArray, JSONException:</string>
+    <string name="Failed_to_insert_row_into">Failed to insert row into</string> 
+    <string name="Failed_to_view_photo">Failed to view photo:</string>
+    <string name="failed_to_save_observation">failed to save observation:</string>
+    <string name="Failed_to_delete_observation">Failed to delete observation:</string>
+    <string name="Failed_to_insert_new_observation_into">Failed to insert new observation into</string> 
+    <string name="Failed_to_put_res">Failed to put</string>
+    <string name="Found_res">Found</string>
+    
+    <string name="ignore_photos_res">ignore_photos</string>
+    
+    <string name="Loading_res">Loading</string>
+    
+    <string name="Map_res">Map</string>
+
+    <string name="Observations_map_res">Observations map</string>
+    <string name="Observations_res">observations</string>
+    <string name="Observations_list_res">Observations list</string>
+ 	<string name="OK_res">OK</string>
+    <string name="observations_res">observations</string>
+    <string name="Oh_no_res">Oh no!</string>
+    <string name="of_res">of</string>
+    <string name="Observation_sync_complete_res">Observation sync complete</string>
+    
+    <string name="Processing_res">Processing</string>
+    <string name="Posting_new_observations_res">Posting new observations</string>
+    <string name="Posting_res">Posting</string>
+    <string name="Photo_sync_complete_res">Photo sync complete</string>
+    <string name="Posted_res">Posted</string>
+    <string name="Please_sign_in">Please sign in</string>
+    <string name="Please_sign_in_to_your_iNaturalist_account_or_sign_up_for_a_new_one_res">Please sign in", "Please sign in to your iNaturalist account or sign up for a new one.</string>
+    <string name="Photo_not_specified">Photo not specified</string>
+    <string name="photos_to_sync_res">photos to sync</string>
+	<string name="Posting_new_photos_res">Posting new photos res.\.\.</string>
+    <string name="Ready_to_sign_up_res">Ready to sign up? </string>
+    <string name="request_res">request:</string>
+      
+    <string name="Settings_res">Settings</string>
+    <string name="Sign_in_out_res">Sign in/out</string>
+	<string name="signin_res">signin</string>
+    <string name="Sync_complete_res">Sync complete!</string>
+    <string name="Syncing_observations_res">Syncing observations</string>
+    <string name="Syncing_res">Syncing.\.\.</string>    
+    <string name="Signed_in_res">Signed in!</string>
+    <string name="Signed_in_as_res">Signed in as </string>
+    <string name="Signing_in_res">Signing in.\.\.</string>
+    <string name="Sign_in_failed_res">Sign in failed!</string>
+    <string name="Sync_required_res">Sync required</string>
+    <string name="Street_res">Street</string>
+    <string name="Satellite_res">Satellite</string>
+    <string name="setting_auth_res">setting auth</string>
+    
+    
+    <string name="Updates_feed_res">Updates feed</string>
+    <string name="Updates_from_people_you_follow_on_iNat_res">Updates from people you follow on iNat</string>
+    <string name="Username_and_password_cannot_be_blank_res">Username and password cannot be blank</string>
+    <string name="Username_or_password_was_invalid_please_sign_in_again_res">Username or password was invalid, please sign in again.</string>
+    <string name="Updating_observations_res">Updating observations</string>
+    <string name="Updating_res">Updating</string>
+    <string name="Upgrading_database_from_version_res">Upgrading database from version</string>
+    <string name="Unknown_URI">Unknown URI</string>
+    <string name="Unknown_action__exiting">Unknown action, exiting</string>
+    
+    <string name="You_need_to_log_in_to_view_your_feed__Log_in_now_res">You need to log in to view your feed.  Log in now?</string>
+ 	<string name="You_are_here">You are here!</string>
+    
+    <string name="new_observations_res">new observations..</string>
+    <string name="new_photos_res">new photos.</string>
+
+    <string name="to_entity_for_a_res">to entity for a</string>
+    <string name="to_res">to</string>
+    <string name="which_will_destroy_all_old_data_res">which will destroy all old data</string>
+    <!-- texto unico para a tres linhas abaixo -->
+    <string name="You_re_about_to_visit_iNaturalist_org_where_you_can_sign_up_for_a_new_account_res">You re about to visit iNaturalist.org, where you can sign up for a new account. </string>
+    <string name="Once_you_ve_confirmed_your_new_account_by_clicking_the_link_in_the_confirmation_res">Once you\'ve confirmed your new account by clicking the link in the confirmation</string>
+    <string name="email_you_ll_receive_you_can_come_back_here_to_enter_your_username_and_password_res">email you ll receive, you can come back here to enter your username and password</string>
+    
+    <string name="sign_in_to_your_inaturalist_account">Sign in to your iNaturalist account</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="or">or</string>
+    <string name="signed_in_as">Signed in as</string>
+    <string name="password">Password</string>
+    <string name="username_res">Username</string>
+    <string name="sign_in">Sign in</string>
+    
+    <string name="sub_stuff">sub stuff</string>
+    <string name="species_guess">species guess</string>
+    <string name="unknown_species">Unknown species</string>
+    <string name="no_description">No description</string>
+    <string name="add_observation">Add observation</string>
+    <string name="take_picture">Take picture</string>
+    
+    <string name="add_photo">Add photo</string>
+    <string name="set_date">Set date</string>
+    <string name="set_time">Set time</string>
+    <string name="lat">Lat</string>
+    <string name="lon">Lon</string>
+    <string name="brief_description">Brief description.\.\.</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="save_text">Save</string>
+    <string name="no_observations_yet_">No observations yet!</string>
+
+    <string name="acc">Acc</string>
+    <string name="unknown">Unknown</string>
+    <string name="sign_out">Sign out</string>
+    <string name="image_description">Image description</string>
+    
+    <string name="my_location">My location</string>
+    <string name="nearby_observations">Nearby observations</string>
+    <string name="add">Add</string>
+    <string name="layers">Layers</string>
+    <string name="menu">Menu</string>
+    
+</resources>

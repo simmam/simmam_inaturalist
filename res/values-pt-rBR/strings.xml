@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iNaturalist</string>
+    <string name="observations_menu_add">Adicionar</string>
+    <string name="observations_menu_sync">Sincronizar</string>
+    <string name="delete_observation">Apagar observação</string>
+    <string name="observation_deleted">Observação apagada</string>
+    <string name="species_guess_hint">Nome da espécie</string>
+<!--  
+   <string name="gmaps_api_key">0TVDd4-CWswKl0Oec1PAdSKL0Fi4G9Gwh2y81hQ</string>
+--> 
+    
+    
+    <string name="Authorization_res">Autorização</string>
+    <string name="Authentication_failed:_res">Falha de Autenticação:</string>
+    
+    <string name="Basic_res">Básico</string>
+        
+    <string name="Blast_something_went_wrong_res">Droga, algo deu errado</string>
+    
+    <string name="Cancel_res">Cancelar</string>
+    <string name="camera_bailed_res">camera bailed,</string>
+    <string name="credentials_res">credenciais</string>
+    <string name="couldn_t_find">Não encontrado</string>
+    <string name="Current_position_res">Posição atual</string>
+    <string name="Couldn_t_connect_to_server_res">Impossivel conectar com o servidor.</string>
+    <string name="Couldn_t_load_nearby_observations_res">Não foi possivel carregar observações próximas</string>
+    
+    <string name="existing_observations_res">observações existentes</string>
+    <string name="Error_for_URL_res">Erro de URL</string>
+    
+    <string name="failed_to_add_res">Falha ao adicionar </string>
+   	<string name="Failed_to_create_JSONArray__JSONException_res">Falha ao criar JSONArray, JSONException:</string>
+    <string name="Failed_to_insert_row_into">Falha ao inserir linha dentro</string> 
+    <string name="Failed_to_view_photo">Falha ao abrir a foto:</string>
+    <string name="failed_to_save_observation">Falha ao salvar observação:</string>
+    <string name="Failed_to_delete_observation">Falha ao apagar observação:</string>
+    <string name="Failed_to_insert_new_observation_into">Falha ao inserir nova observação dentro</string> 
+    <string name="Failed_to_put_res">Falha ao colocar</string>
+    <string name="Found_res">Encontrado</string>
+    
+    <string name="ignore_photos_res">Ignore fotos</string>
+    
+    <string name="Loading_res">Carregando</string>
+    
+    <string name="Map_res">Mapa</string>
+
+    <string name="Observations_map_res">Mapa de observações</string>
+    <string name="Observations_res">Observações</string>
+    <string name="Observations_list_res">Lista de Observações</string>
+ 	<string name="OK_res">OK</string>
+    <string name="observations_res">observações</string>
+    <string name="Oh_no_res">Oh no!</string>
+    <string name="of_res">de</string>
+    <string name="Observation_sync_complete_res">Sincronização de observação completa</string>
+
+    <string name="Processing_res">Processando</string>
+    <string name="Posting_new_observations_res">Publicando novas observações</string>
+    <string name="Posting_res">Salvando</string>
+    <string name="Photo_sync_complete_res">Sincronização de fotos completa</string>
+    <string name="Posted_res">Salvo</string>
+    <string name="Please_sign_in">Por favor conecte-se</string>
+    <string name="Please_sign_in_to_your_iNaturalist_account_or_sign_up_for_a_new_one_res">Por favor conecte-se a sua conta do iNaturalist ou crie uma nova conta."</string>
+    <string name="Photo_not_specified">Foto não especificada</string>
+    <string name="photos_to_sync_res">fotos para sincronizar</string>
+	<string name="Posting_new_photos_res">Salvando novas fotos.\.\.</string>
+    <string name="Ready_to_sign_up_res">Preparado para conectar? </string>
+    <string name="request_res">pedido:</string>
+    
+    <string name="Settings_res">Configurações</string>
+    
+	<string name="sign_in">Conectar</string>
+    <string name="Sign_in_res">Conectar</string>
+    <string name="Sign_in_out_res">Conectar/Desconectar</string>
+    <string name="sign_in_to_your_inaturalist_account">Conecte com sua conta no iNaturalist </string>
+    <string name="sign_out">Desconectar</string>
+    <string name="signed_in_as">Entrar como </string>
+    
+    
+	
+    
+    <string name="Sync_complete_res">Sincronização completa!</string>
+    <string name="Syncing_observations_res">Sincronizando observações</string>
+    <string name="Syncing_res">Sincronizando.\.\.</string>    
+    <string name="Sync_required_res">Sincronização necessária</string>
+    
+    <string name="Signed_in_res">Conectado em!</string>
+    <string name="Signed_in_as_res">Conectado como </string>
+    <string name="Signing_in_res">Conectado em.\.\.</string>
+
+    <string name="Sign_in_failed_res">Falha ao conectar!</string>
+    <string name="Street_res">Rua</string>
+    <string name="Satellite_res">Satélite</string>
+    <string name="setting_auth_res">definindo autenticação</string>
+    
+    
+    <string name="Updates_feed_res">Feed de atualizações</string>
+    <string name="Updates_from_people_you_follow_on_iNat_res">Atualizações de pessoas que você segue no iNat</string>
+    <string name="Username_and_password_cannot_be_blank_res">Usuário e senha não podem estar em branco.</string>
+    <string name="Username_or_password_was_invalid_please_sign_in_again_res">Usuário ou senha inválidos, por favor conecte-se novamente.</string>
+    <string name="Updating_observations_res">Atualizando observações</string>
+    <string name="Updating_res">Atualizando</string>
+    <string name="Upgrading_database_from_version_res">Atualizando banco de dados da versão</string>
+    <string name="Unknown_URI">URI desconhecido</string>
+    <string name="Unknown_action__exiting">Ação desconhecida, saindo</string>
+    
+    <string name="You_need_to_log_in_to_view_your_feed__Log_in_now_res">Você precisa se conectar. Conectar agora?</string>
+ 	<string name="You_are_here">Você esta aqui!</string>
+    
+    <string name="new_observations_res">Novas Observações.\.\.</string>
+    <string name="new_photos_res">Novas fotos.\.\.</string>
+
+    <string name="to_entity_for_a_res">para entidade para um(a)</string>
+    <string name="to_res">Para</string>
+    <string name="which_will_destroy_all_old_data_res">o qual irá destruir todos os dados antigos</string>
+    <!-- texto unico para a tres linhas abaixo -->
+    <string name="You_re_about_to_visit_iNaturalist_org_where_you_can_sign_up_for_a_new_account_res">Você está para visitar iNaturalist.org, onde poderá se cadastrar para uma nova conta. </string>
+    <string name="Once_you_ve_confirmed_your_new_account_by_clicking_the_link_in_the_confirmation_res">Quando você confirmar sua nova conta clicando no link na mensagem de confirmação</string>
+    <string name="email_you_ll_receive_you_can_come_back_here_to_enter_your_username_and_password_res">que você receberá, você poderá voltar aqui e entrar com seu usuário e senha</string>
+    
+    <string name="create_a_new_account">Criar nova Conta</string>
+    <string name="or">ou</string>
+    <string name="password">Senha</string>
+    <string name="username_res">Usuário</string>
+    
+    <string name="sub_stuff">sob coisas</string>
+    <string name="species_guess">possível espécie</string>
+    <string name="unknown_species">Espécie desconhecida</string>
+    <string name="no_description">Sem desrição</string>
+    <string name="add_observation">Nova Observação</string>
+    <string name="take_picture">Tire uma foto</string>
+    
+    <string name="add_photo">Nova foto</string>
+    <string name="set_date">Data</string>
+    <string name="set_time">Hora</string>
+    <string name="lat">Lat</string>
+    <string name="lon">Lon</string>
+    <string name="brief_description">Breve descrição.\.\.</string>
+    <string name="cancel_text">Cancelar</string>
+    <string name="save_text">Salvar</string>
+    <string name="no_observations_yet_">Sem observações agora!</string>
+ 
+    <string name="acc">Prec.</string>
+    <string name="unknown">Desconhecido</string>
+    <string name="image_description">Descrição da imagem</string>
+        
+</resources>
